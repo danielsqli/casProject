@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">masterCasProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Button</string>
+    <string name="title_text">Welcome To Our App</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="title_activity_date_detail">dateDetail</string>
+    <string name="title_activity_view_details">viewDetails</string>
+    <string name="title_activity_add_task">AddTask</string>
+    <string name="testInputText"></string>
+    <string name="testOutputText">TextView</string>
+    <string name="testOUT">TextView</string>
+    <string name="testText">TextView</string>
+    <string-array name="PriorityTypes">
+        <item>Distant</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Urgent</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
